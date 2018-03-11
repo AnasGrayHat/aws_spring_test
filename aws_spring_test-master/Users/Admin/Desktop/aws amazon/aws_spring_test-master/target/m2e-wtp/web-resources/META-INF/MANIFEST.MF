@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Sample Spring MVC Application Using AWS CodeStar
+Implementation-Version: 1.0
+Built-By: Admin
+Implementation-Vendor-Id: com.aws.codestar.projecttemplates
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/HelloWorld/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
